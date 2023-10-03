@@ -1,0 +1,87 @@
+Commander Legends: Battle for Baldur's Gate: Aboleth Spawn	NM	1	1.29	1.29
+Commander Legends: Battle for Baldur's Gate: Brainstealer Dragon	NM	1	2.79	2.79
+March of the Machine Commander Decks: Chasm Skulker	NM	1	0.99	0.99
+Wilds of Eldraine Commander Decks: Choked Estuary	NM	1	0.49	0.49
+Commander Masters: Command Tower	NM	1	0.79	0.79
+Commander Masters: Crippling Fear	NM	1	0.49	0.49
+Commander Masters: Curtains' Call	NM	1	0.49	0.49
+Wilds of Eldraine Commander Decks: Darkwater Catacombs	NM	1	0.49	0.49
+Wilds of Eldraine Commander Decks: Dimir Aqueduct	NM	1	0.35	0.35
+Zendikar Rising Commander Decks: Dimir Keyrune	NM	1	0.35	0.35
+Streets of New Capenna: Dusk Mangler	NM	1	0.35	0.35
+Commander Legends: Battle for Baldur's Gate: Endless Evil	NM	1	0.49	0.49
+Wilds of Eldraine Commander Decks: Exotic Orchard	NM	1	0.49	0.49
+The Lord of the Rings: Tales of Middle-earth Commander Decks: Extract from Darkness	NM	1	0.35	0.35
+Wilds of Eldraine Commander Decks: Fact or Fiction	NM	1	0.35	0.35
+The Lord of the Rings: Tales of Middle-earth Commander Decks: Feed the Swarm	NM	1	0.39	0.39
+Commander Legends: Battle for Baldur's Gate: Fractured Sanity	NM	1	0.79	0.79
+Commander Legends: Battle for Baldur's Gate: From the Catacombs	NM	1	0.59	0.59
+Commander Legends: Battle for Baldur's Gate: Grazilaxx, Illithid Scholar	NM	1	0.59	0.59
+Commander Legends: Battle for Baldur's Gate: Grell Philosopher	NM	1	0.59	0.59
+Commander Legends: Battle for Baldur's Gate: Guiltfeeder	NM	1	0.69	0.69
+Streets of New Capenna Commander Decks: Hex	NM	1	0.49	0.49
+Wilds of Eldraine Commander Decks: Hullbreaker Horror	NM	1	1.99	1.99
+Commander Legends: Battle for Baldur's Gate: Hunted Horror	NM	1	0.99	0.99
+Wilds of Eldraine: Island (0270)	NM	9	0.35	3.15
+Wilds of Eldraine Enchanting Tales: Leyline of Anticipation (0023)	NM	1	0.49	0.49
+Commander Legends: Battle for Baldur's Gate: Mind Flayer	NM	1	0.49	0.49
+Wilds of Eldraine Commander Decks: Mind Stone	NM	1	0.35	0.35
+Wilds of Eldraine Commander Decks: Myriad Landscape	NM	1	0.35	0.35
+Wilds of Eldraine Commander Decks: Path of Ancestry	NM	1	0.35	0.35
+Jumpstart 2022: Plague Spitter	NM	1	0.35	0.35
+Kaldheim: Port of Karfell	NM	1	0.35	0.35
+Commander Legends: Battle for Baldur's Gate: Psionic Ritual	NM	1	0.49	0.49
+Wilds of Eldraine Commander Decks: Reflections of Littjara	NM	1	1.99	1.99
+The Brothers' War Commander Decks: River of Tears	NM	1	0.49	0.49
+Magic Origins: Rogue's Passage	NM	1	0.49	0.49
+Commander Legends: Battle for Baldur's Gate: Sewer Nemesis	NM	1	0.59	0.59
+Wilds of Eldraine Commander Decks: Sunken Hollow	NM	1	0.69	0.69
+Wilds of Eldraine: Swamp (0272)	NM	10	0.35	3.50
+Wilds of Eldraine Commander Decks: Tainted Isle	NM	1	0.99	0.99
+Wilds of Eldraine Commander Decks: Talisman of Dominance	NM	1	1.79	1.79
+Wilds of Eldraine Commander Decks: Temple of Deceit	NM	1	0.59	0.59
+Wilds of Eldraine Commander Decks: Temple of the False God	NM	1	0.35	0.35
+Commander Masters: Thought Vessel	NM	1	1.99	1.99
+Commander Legends: Battle for Baldur's Gate: Uchuulon	NM	1	0.79	0.79
+Commander Legends: Battle for Baldur's Gate: Woe Strider	NM	1	0.59	0.59
+Commander Legends: Battle for Baldur's Gate Foil: Zellix, Sanity Flayer	NM	1	3.49	3.49
+EX SINGLES
+Description	Style	Qty	Price	Total
+Adventures in the Forgotten Realms Commander Decks: Arcane Signet	EX	1	1.03	1.03
+Commander Anthology Vol. II: Ash Barrens	EX	1	0.31	0.31
+Commander 2017: Black Market	EX	1	4.39	4.39
+Commander Legends: Battle for Baldur's Gate Variants: Captain N'Ghathrod (Foil Etched - Display C...	EX	1	0.79	0.79
+Gatecrash Foil: Consuming Aberration	EX	1	0.39	0.39
+Tempest: Dauthi Horror	EX	1	0.28	0.28
+Ravnica: Dimir Signet	EX	1	0.79	0.79
+Mirrodin: Dross Harvester	EX	1	0.39	0.39
+Throne of Eldraine: Drown in the Loch	EX	1	0.79	0.79
+Shadows Over Innistrad: Drownyard Temple	EX	1	0.39	0.39
+Duel Decks: Elspeth Vs. Tezzeret: Everflowing Chalice	EX	1	0.28	0.28
+Shadows Over Innistrad: Forgotten Creation	EX	1	0.39	0.39
+Commander Legends: Battle for Baldur's Gate Foil: Haunted One	EX	1	3.19	3.19
+Promotional: In Garruk's Wake (Release Promo Foil)	EX	1	1.59	1.59
+Commander 2017: Memory Plunder	EX	1	0.63	0.63
+New Phyrexia: Mindcrank	EX	1	2.79	2.79
+Theros: Nighthowler	EX	1	0.39	0.39
+Future Sight: Nihilith	EX	1	0.47	0.47
+Innistrad: Crimson Vow: Overcharged Amalgam	EX	1	0.39	0.39
+2015 Core Set: Phyrexian Revoker	EX	1	0.39	0.39
+Conspiracy - Take the Crown: Psychosis Crawler	EX	1	0.55	0.55
+Double Masters 2022: Pull from Tomorrow	EX	1	0.39	0.39
+Masters 25: Ravenous Chupacabra	EX	1	0.63	0.63
+Innistrad: Midnight Hunt: Sludge Monster	EX	1	0.39	0.39
+Commander 2018: Sol Ring	EX	1	1.99	1.99
+Modern Masters 2015: Spellskite	EX	1	2.39	2.39
+Commander Legends: Battle for Baldur's Gate: Swamp (461)	EX	1	0.28	0.28
+Promotional: Syphon Mind (WPN Foil)	EX	1	0.63	0.63
+Eldritch Moon: Wharf Infiltrator	EX	1	0.39	0.39
+VG SINGLES
+Description	Style	Qty	Price	Total
+Worldwake Foil: Creeping Tar Pit	VG	1	2.99	2.99
+Planechase 2012: Dark Hatchling	VG	1	0.34	0.34
+The Lord of the Rings: Tales of Middle-earth Commander Decks: Herald's Horn	VG	1	3.84	3.84
+Commander: Lightning Greaves	VG	1	5.59	5.59
+Alara Reborn: Nemesis of Reason	VG	1	1.39	1.39
+Innistrad: Nephalia Drownyard	VG	1	0.55	0.55
+Apocalypse: Phyrexian Rager	VG	1	0.25	0.25
